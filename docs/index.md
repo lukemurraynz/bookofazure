@@ -1,6 +1,7 @@
-# Welcome to MkDocs
+# Welcome to the book of Azure
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+Please note that the content outlined in this book of Azure is subject to change.
+For the latest updates on Microsoft Azure, please visit: [https://azure.microsoft.com/](https://azure.microsoft.com/?WT.mc_id=AZ-MVP-5004796)
 
 ## Commands
 
