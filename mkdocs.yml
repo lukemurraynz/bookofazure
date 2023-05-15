@@ -56,7 +56,7 @@ copyright: |
   &copy; 2023 <a href="https://github.com/lukemurraynz/"  target="_blank" rel="noopener">Luke Murray</a>
 
   nav:
-    - Title : 'index.md'
+    - Title: 'index.md'
     - Chapter 1: 'GettingStarted.md'
     - Chapter 2: 'DeployingIaaSPaaS.md'
     - Chapter 3: ArchitectHA.md'
