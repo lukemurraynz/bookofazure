@@ -60,8 +60,8 @@ copyright: |
 
   nav:
     - 'index.md'
-    - 'IntroAzure.md'
-    - 'GettingStarted.md'
-    - 'DeployingIaaSPaaS.md'
-    - 'ArchitectHA.md'
     - 'AdvAzure.md'
+    - 'ArchitectHA.md'
+    - 'DeployingIaaSPaaS.md'
+    - 'GettingStarted.md'
+    - 'IntroAzure.md'
