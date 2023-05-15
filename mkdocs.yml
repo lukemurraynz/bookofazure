@@ -27,10 +27,11 @@ theme:
       toggle:
         icon: material/toggle-switch
         name: Switch to light mode    
-      primary: teal
+      primary: blue
       accent: lime
 
 extra:
+  generator: false
   social:
     - icon: fontawesome/brands/github-alt
       link: https://github.com/lukemurraynz/
@@ -38,7 +39,7 @@ extra:
       link: https://twitter.com/lukemurraynz
     - icon: fontawesome/brands/linkedin
       link: https://www.linkedin.com/in/ljmurray/
-  generator: false
+
   analytics:
     provider: google
     property: G-7Y196JE6RW
