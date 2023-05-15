@@ -77,6 +77,7 @@ plugins:
         #
         #cover: false
         cover_title: Book of Azure
+        cover_logo: assets/logo/logo.png
         cover_subtitle: Whosoever holds this book, if they be worthy, shall possess the power of Azure.
         #heading_shift: false
         #toc_level: 3
