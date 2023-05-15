@@ -38,11 +38,11 @@ extra:
       link: https://www.linkedin.com/in/ljmurray/
 
   nav:
-    - Title: 'index.md'
-    - Chapter 1: 'GettingStarted.md'
-    - Chapter 2: 'DeployingIaaSPaaS.md'
-    - Chapter 3: ArchitectHA.md'
-    - Chapter 4: 'AdvAzure.md'
+    - 'index.md'
+    - 'GettingStarted.md'
+    - 'DeployingIaaSPaaS.md'
+    - 'ArchitectHA.md'
+    - 'AdvAzure.md'
     
 markdown_extensions:
   - pymdownx.highlight:
