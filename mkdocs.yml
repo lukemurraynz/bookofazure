@@ -38,6 +38,9 @@ extra:
       link: https://twitter.com/lukemurraynz
     - icon: fontawesome/brands/linkedin
       link: https://www.linkedin.com/in/ljmurray/
+  analytics:
+    provider: google
+    property: G-7Y196JE6RW
 
   nav:
     - 'index.md'
@@ -46,6 +49,8 @@ extra:
     - 'ArchitectHA.md'
     - 'AdvAzure.md'
     
+
+
 markdown_extensions:
   - pymdownx.highlight:
       anchor_linenums: true
