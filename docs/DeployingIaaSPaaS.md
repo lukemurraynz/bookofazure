@@ -1,4 +1,4 @@
-Chapter 3: Deploying Infrastructure and Platform as a Service Services
+# Chapter 3: Deploying Infrastructure and Platform as a Service Services
 
 Understanding Azure networking, including virtual networks, load balancing, and VPN gateways
 Implementing Azure Platform as a Service (PaaS) solutions, including Web Apps, Logic Apps, and Functions
