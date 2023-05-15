@@ -56,8 +56,8 @@ copyright: |
   &copy; 2023 <a href="https://github.com/lukemurraynz/"  target="_blank" rel="noopener">Luke Murray</a>
 
   nav:
-    - 'index.md'
-    - 'GettingStarted.md'
-    - 'DeployingIaaSPaaS.md'
-    - 'ArchitectHA.md'
-    - 'AdvAzure.md'
+    - Title : 'index.md'
+    - Chapter 1: 'GettingStarted.md'
+    - Chapter 2: 'DeployingIaaSPaaS.md'
+    - Chapter 3: ArchitectHA.md'
+    - Chapter 4: 'AdvAzure.md'
