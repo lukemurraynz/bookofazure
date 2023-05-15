@@ -37,6 +37,13 @@ extra:
     - icon: fontawesome/brands/linkedin
       link: https://www.linkedin.com/in/ljmurray/
 
+  nav:
+    - Title: 'index.md'
+    - Chapter 1: 'GettingStarted.md'
+    - Chapter 2: 'DeployingIaaSPaaS.md'
+    - Chapter 3: ArchitectHA.md'
+    - Chapter 4: 'AdvAzure.md'
+    
 markdown_extensions:
   - pymdownx.highlight:
       anchor_linenums: true
@@ -55,9 +62,3 @@ site_author: Luke Murray
 copyright: |
   &copy; 2023 <a href="https://github.com/lukemurraynz/"  target="_blank" rel="noopener">Luke Murray</a>
 
-  nav:
-    - Title: 'index.md'
-    - Chapter 1: 'GettingStarted.md'
-    - Chapter 2: 'DeployingIaaSPaaS.md'
-    - Chapter 3: ArchitectHA.md'
-    - Chapter 4: 'AdvAzure.md'
