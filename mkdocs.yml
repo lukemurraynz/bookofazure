@@ -50,9 +50,6 @@ markdown_extensions:
   - pymdownx.superfences
   - pymdownx.mark
   - attr_list
-  - pymdownx.emoji:
-      emoji_index: !!python/name:materialx.emoji.twemoji
-      emoji_generator: !!python/name:materialx.emoji.to_svg
 
 site_author: Luke Murray
 copyright: |
@@ -60,8 +57,7 @@ copyright: |
 
   nav:
     - 'index.md'
-    - 'AdvAzure.md'
-    - 'ArchitectHA.md'
-    - 'DeployingIaaSPaaS.md'
     - 'GettingStarted.md'
-    - 'IntroAzure.md'
+    - 'DeployingIaaSPaaS.md'
+    - 'ArchitectHA.md'
+    - 'AdvAzure.md'
