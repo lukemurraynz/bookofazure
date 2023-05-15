@@ -72,11 +72,11 @@ copyright: |
 plugins:
     - with-pdf:
         author: Luke Murray
-        copyright: 2023
+        copyright: '@2023'
         #
         #cover: false
         cover_title: Book of Azure
-        cover_subtitle: This is the way.
+        cover_subtitle: Whosoever holds this book, if they be worthy, shall possess the power of Azure.
         #heading_shift: false
         #toc_level: 3
         #ordered_chapter_level: 2
