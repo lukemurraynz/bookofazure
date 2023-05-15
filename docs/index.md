@@ -9,6 +9,8 @@ hide:
 Please note that the content outlined in this book of Azure is subject to change.
 For the latest updates on Microsoft Azure, please visit: [azure.microsoft.com](https://azure.microsoft.com/?WT.mc_id=AZ-MVP-5004796).
 
+![Book of Azure Logo](assets/logo/logo.png)
+
 ## Commands
 
 * `mkdocs new [dir-name]` - Create a new project.
