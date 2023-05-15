@@ -50,8 +50,6 @@ extra:
     - 'DeployingIaaSPaaS.md'
     - 'ArchitectHA.md'
     - 'AdvAzure.md'
-    
-
 
 markdown_extensions:
   - pymdownx.highlight:
@@ -71,3 +69,23 @@ site_author: Luke Murray
 copyright: |
   &copy; 2023 <a href="https://github.com/lukemurraynz/"  target="_blank" rel="noopener">Luke Murray</a>
 
+plugins:
+    - with-pdf:
+        #author: WHO
+        #copyright: ANY TEXT
+        #
+        #cover: false
+        #cover_title: TITLE TEXT
+        #cover_subtitle: SUBTITLE TEXT
+        #heading_shift: false
+        #toc_level: 3
+        #ordered_chapter_level: 2
+        #excludes_children:
+        #    - 'release-notes/:upgrading'
+        #    - 'release-notes/:changelog'
+        #
+        #output_path: any-place/document.pdf
+        #enabled_if_env: ENABLE_PDF_EXPORT
+        #
+        #debug_html: true
+        #verbose: true
