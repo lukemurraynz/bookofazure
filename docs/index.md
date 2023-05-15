@@ -1,3 +1,9 @@
+---
+hide:
+  - navigation
+  - toc
+---
+
 # Title
 
 Please note that the content outlined in this book of Azure is subject to change.

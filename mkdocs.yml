@@ -5,6 +5,8 @@ theme:
   features:
     - navigation.tabs
     - navigation.sections
+    - navigation.tracking
+    - navigation.tabs.sticky
     - toc.integrate
     - navigation.top
     - search.suggest
@@ -39,10 +41,10 @@ extra:
 
   nav:
     - 'index.md'
-    - 'aGettingStarted.md'
-    - 'bDeployingIaaSPaaS.md'
-    - 'cArchitectHA.md'
-    - 'dAdvAzure.md'
+    - 'GettingStarted.md'
+    - 'DeployingIaaSPaaS.md'
+    - 'ArchitectHA.md'
+    - 'AdvAzure.md'
     
 markdown_extensions:
   - pymdownx.highlight:
