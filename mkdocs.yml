@@ -13,7 +13,6 @@ theme:
     - content.code.annotation
     - content.code.copy
     - content.code.select
-
   language: en
   palette:
     - scheme: default
@@ -62,7 +61,7 @@ copyright: |
   nav:
     - 'index.md'
     - 'IntroAzure.md'
-        - 'GettingStarted.md'
-        - 'DeployingIaaSPaaS.md'
-        - 'ArchitectHA.md'
-        - 'AdvAzure.md'
+    - 'GettingStarted.md'
+    - 'DeployingIaaSPaaS.md'
+    - 'ArchitectHA.md'
+    - 'AdvAzure.md'
