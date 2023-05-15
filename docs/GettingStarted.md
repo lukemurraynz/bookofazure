@@ -1,4 +1,6 @@
-# Chapter 2: Getting Started with Azure
+# Chapter 2
+
+## Getting Started with Azure
 
 Understanding Azure compute services, including virtual machines, containers, and serverless computing
 Creating and managing Azure virtual machines

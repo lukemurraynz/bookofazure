@@ -1,4 +1,6 @@
-# Chapter 1: Introduction to Microsoft Azure
+# Chapter 1
+
+## Introduction to Microsoft Azure
 
 Overview of Microsoft Azure and its key features
 Setting up a Microsoft Azure account
