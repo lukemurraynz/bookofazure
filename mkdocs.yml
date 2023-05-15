@@ -71,12 +71,12 @@ copyright: |
 
 plugins:
     - with-pdf:
-        #author: WHO
-        #copyright: ANY TEXT
+        author: Luke Murray
+        copyright: 2023
         #
         #cover: false
-        #cover_title: TITLE TEXT
-        #cover_subtitle: SUBTITLE TEXT
+        cover_title: Book of Azure
+        cover_subtitle: This is the way.
         #heading_shift: false
         #toc_level: 3
         #ordered_chapter_level: 2
@@ -84,7 +84,7 @@ plugins:
         #    - 'release-notes/:upgrading'
         #    - 'release-notes/:changelog'
         #
-        #output_path: any-place/document.pdf
+        output_path: pdf/bookofazure.pdf
         #enabled_if_env: ENABLE_PDF_EXPORT
         #
         #debug_html: true

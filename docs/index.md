@@ -23,6 +23,7 @@ For the latest updates on Microsoft Azure, please visit: [azure.microsoft.com](h
         index.md  # The documentation homepage.
         ...       # Other markdown pages, images and other files.
 
+https://github.com/lukemurraynz/bookofazure/blob/gh-pages/pdf/document.pdf?raw=true
 
 ## Code Test
 
