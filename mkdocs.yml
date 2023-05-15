@@ -1,4 +1,5 @@
 site_name: Book of Azure
+site_url: https://bookofazure.com/
 theme:
   name: material
   features:
@@ -54,5 +55,14 @@ markdown_extensions:
       emoji_index: !!python/name:materialx.emoji.twemoji
       emoji_generator: !!python/name:materialx.emoji.to_svg
 
+site_author: Luke Murray
 copyright: |
   &copy; 2023 <a href="https://github.com/lukemurraynz/"  target="_blank" rel="noopener">Luke Murray</a>
+
+  nav:
+    - 'index.md'
+    - 'IntroAzure.md'
+        - 'GettingStarted.md'
+        - 'DeployingIaaSPaaS.md'
+        - 'ArchitectHA.md'
+        - 'AdvAzure.md'
