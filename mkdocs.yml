@@ -47,10 +47,11 @@ extra:
 
   nav:
     - 'index.md'
-    - 'GettingStarted.md'
-    - 'DeployingIaaSPaaS.md'
-    - 'ArchitectHA.md'
-    - 'AdvAzure.md'
+    - '1_IntroAzure'
+    - '2_GettingStarted.md'
+    - '3_DeployingIaaSPaaS.md'
+    - '4_ArchitectHA.md'
+    - '5_AdvAzure.md'
 
 markdown_extensions:
   - pymdownx.highlight:
